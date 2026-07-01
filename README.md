@@ -1,115 +1,129 @@
-# Hi there, I'm Vaishnavi Rachawar 👋
+<div align="center">
 
-## 👩‍💻 About Me
+# Hi 👋, I'm Vaishnavi Rachawar
 
-🎓 Final Year Computer Science Engineering Student  
-💻 Passionate about Java, Full-Stack Development, and Machine Learning  
-🌱 Currently learning Spring Boot, React, Git, Docker, and System Design  
-🚀 Building projects to improve my development and problem-solving skills  
-🎯 Goal: Crack Software Developer interviews and become a skilled Full-Stack Developer
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Full-Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+
+<p>
+  <img src="https://komarev.com/ghpvc/?username=vaishnavi-rachawar&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+</div>
 
 ---
 
-## 🛠️ Tech Stack
+# 👩‍💻 About Me
 
-### Languages
-- Java
-- C
-- SQL
-- HTML
-- CSS
-- JavaScript
+🎓 Final Year Computer Science Engineering Student
 
-### Frameworks & Technologies
+💻 Passionate about **Java, Full-Stack Development, and Machine Learning**
+
+🌱 Currently learning
 - Spring Boot
 - React
-- Git & GitHub
 - Docker
 - REST APIs
 - JWT Authentication
-
-### Database
-- MySQL
-
-### Tools
-- VS Code
-- IntelliJ IDEA
-- Eclipse
-- Postman
-- Git
-
----
-
-## 📚 Currently Learning
-
-- Advanced Java
-- Spring Boot
-- React
-- Machine Learning
 - Data Structures & Algorithms
-- System Design
+
+🎯 Goal: **Become a Software Engineer and build impactful applications.**
 
 ---
 
-## 🚀 Featured Projects
+# 🚀 Tech Stack
 
-### 🤖 AI-Powered Resume Screening and Ranking System
-Machine Learning project that analyzes resumes and ranks candidates based on job descriptions.
+### 💻 Languages
 
-### 🏫 College Management Information System
-Full-Stack application using:
-- Spring Boot
-- React
-- MySQL
-- JWT Authentication
-- Docker
+<p>
+<img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" />
+</p>
 
-### 📊 Smart Stock Dashboard with Real-Time Analytics
-A dashboard that provides stock insights with real-time visualization.
+### ⚙️ Frameworks & Tools
 
-### 🔍 Lost & Found Portal
-Android application for reporting and finding lost items.
+<p>
+<img src="https://skillicons.dev/icons?i=spring,react,git,github,docker,vscode,idea,postman" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 📚 Currently Working On
 
-![Vaishnavi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=tokyonight)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=tokyonight)
+- 🤖 AI-Powered Resume Screening and Ranking System
+- 🏫 College Management Information System
+- 📊 Smart Stock Dashboard
+- 📱 Lost & Found Android Application
 
 ---
 
-## 🌐 Connect with Me
+# 📈 GitHub Stats
 
-- GitHub: https://github.com/vaishnavi-rachawar
-- LinkedIn: *(Add your LinkedIn profile here)*
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-## 💡 Quote
+# 🔥 GitHub Streak
 
-> "Learning one commit at a time."
+<p align="center">
 
-⭐ Thanks for visiting my profile!
+<img src="https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=tokyonight&hide_border=true"/>
 
-<!--
-**vaishnavi-rachawar/vaishnavi-rachawar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# 📊 GitHub Activity Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-rachawar&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+---
+
+# 🏆 GitHub Trophies
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-rachawar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+
+</p>
+
+---
+
+# 🌐 Connect with Me
+
+<p>
+
+<a href="https://github.com/vaishnavi-rachawar">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<!-- Replace with your LinkedIn URL -->
+<a href="https://linkedin.com/in/your-linkedin">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+</p>
+
+---
+
+# 💡 Quote
+
+> **"Every expert was once a beginner. Keep learning, keep building." 🚀**
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting my profile!
+
+✨ If you like my work, don't forget to star my repositories.
+
+</div>
