@@ -1,147 +1,137 @@
 <div align="center">
 
-# ✨ Hi, I'm Vaishnavi Rachawar 👋
+# 💜 Hi, I'm Vaishnavi Rachawar
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Aspiring+Java+Full-Stack+Developer;Spring+Boot+%7C+React+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=34&pause=1000&color=9D4EDD&center=true&vCenter=true&width=900&lines=Computer+Science+Engineering+Student;Aspiring+Java+Full-Stack+Developer;Spring+Boot+%7C+React+Developer;Machine+Learning+Enthusiast;Welcome+to+my+GitHub!+💜" />
 
-<img src="https://komarev.com/ghpvc/?username=vaishnavi-rachawar&style=for-the-badge&color=blueviolet"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:7F00FF,100:00C6FF&text=Vaishnavi%20Rachawar&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Code%20•%20Learn%20•%20Build%20•%20Grow&descAlignY=60"/>
 
 <p>
-<img src="https://img.shields.io/github/followers/vaishnavi-rachawar?style=for-the-badge&logo=github&color=8A2BE2"/>
-<img src="https://img.shields.io/github/stars/vaishnavi-rachawar?style=for-the-badge&logo=github&color=FF69B4"/>
+<img src="https://komarev.com/ghpvc/?username=vaishnavi-rachawar&style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/followers/vaishnavi-rachawar?style=for-the-badge&color=blueviolet"/>
+<img src="https://img.shields.io/github/stars/vaishnavi-rachawar?style=for-the-badge&color=blue"/>
 </p>
 
 </div>
 
 ---
 
-# 🌸 About Me
+# 👩‍💻 About Me
 
-💜 Final Year **Computer Science Engineering** Student
+```java
+class Vaishnavi {
 
-💻 Passionate about building **Java Full-Stack Applications**
+    String role = "Computer Science Student";
 
-🌱 Currently learning
+    String[] skills = {
+        "Java",
+        "Spring Boot",
+        "React",
+        "MySQL",
+        "Machine Learning"
+    };
 
-- ☕ Java
-- 🍃 Spring Boot
-- ⚛️ React
-- 🐳 Docker
-- 🔐 JWT Authentication
-- 🤖 Machine Learning
-- 📚 Data Structures & Algorithms
+    String currentFocus = "Full Stack Development";
 
-🎯 **Career Goal**
-
-> Become a Software Engineer who builds impactful and scalable applications.
+    String goal = "Software Engineer";
+}
+```
 
 ---
 
 # 🚀 Tech Stack
 
-<div align="center">
+<p align="center">
 
-### Languages
+<img src="https://skillicons.dev/icons?i=java,spring,react,mysql,git,github,docker,postman,vscode,idea,html,css,js"/>
 
-<img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql"/>
-
-### Frameworks & Tools
-
-<img src="https://skillicons.dev/icons?i=spring,react,git,github,docker,postman,vscode,idea"/>
-
-</div>
+</p>
 
 ---
 
-# 🚀 Projects
+# 📊 GitHub Analytics
 
-| Project | Description |
-|---------|-------------|
-| 🤖 AI Resume Screening System | Resume ranking using Machine Learning |
-| 🏫 College Management System | Spring Boot + React + MySQL |
-| 📊 Smart Stock Dashboard | Real-time analytics dashboard |
-| 📱 Lost & Found Portal | Android application |
+<p align="center">
 
----
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=radical&hide_border=true"/>
 
-# 📈 GitHub Analytics
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=radical&hide_border=true"/>
 
-<div align="center">
+</p>
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=radical&hide_border=true"/>
+<p align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=radical&hide_border=true"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=radical&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🔥 Contribution Streak
+# 📈 Contribution Graph
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=radical&hide_border=true"/>
-
-</div>
-
----
-
-# 📊 Contribution Graph
-
-<div align="center">
+<p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-rachawar&theme=tokyo-night&hide_border=true"/>
 
-</div>
+</p>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<div align="center">
+<p align="center">
 
 <img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-rachawar&theme=radical&row=2&column=4&no-frame=true"/>
 
-</div>
+</p>
 
 ---
 
-# 🌐 Connect With Me
+# 🚀 Featured Projects
 
-<div align="center">
+| Project | Tech |
+|---------|------|
+| 🤖 AI Resume Screening | Python, ML |
+| 🏫 College Management System | Spring Boot, React |
+| 📊 Smart Stock Dashboard | React, API |
+| 📱 Lost & Found Portal | Android |
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://github.com/vaishnavi-rachawar/vaishnavi-rachawar/blob/output/github-contribution-grid-snake.svg"/>
+
+</p>
+
+---
+
+# 🌐 Connect
+
+<p align="center">
 
 <a href="https://github.com/vaishnavi-rachawar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://linkedin.com/in/your-linkedin">
+<a href="https://linkedin.com/in/YOUR-LINKEDIN">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
-
----
-
-# 💡 Daily Motivation
-
-<div align="center">
-
-### *"Small progress each day adds up to big results."* 🌱
-
-</div>
+</p>
 
 ---
 
 <div align="center">
 
-### ⭐ Thanks for visiting my profile!
+## 💜 "Keep Learning. Keep Building. Keep Growing."
 
-💜 **Happy Coding!**
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,FF69B4&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:7F00FF,100:00C6FF"/>
 
 </div>
