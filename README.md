@@ -1,122 +1,138 @@
 <div align="center">
 
-# Hi 👋, I'm Vaishnavi Rachawar
+# ✨ Hi, I'm Vaishnavi Rachawar 👋
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=6A5ACD&center=true&vCenter=true&width=700&lines=Computer+Science+Engineering+Student;Aspiring+Full-Stack+Java+Developer;Spring+Boot+%7C+React+Developer;Machine+Learning+Enthusiast;Always+Learning+Something+New+🚀" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=30&duration=3500&pause=1000&color=8A2BE2&center=true&vCenter=true&width=750&lines=Welcome+to+my+GitHub+Profile!;Computer+Science+Engineering+Student;Aspiring+Java+Full-Stack+Developer;Spring+Boot+%7C+React+Developer;Machine+Learning+Enthusiast;Always+Learning+%F0%9F%9A%80" alt="Typing SVG"/>
+
+<img src="https://komarev.com/ghpvc/?username=vaishnavi-rachawar&style=for-the-badge&color=blueviolet"/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=vaishnavi-rachawar&label=Profile%20Views&color=6A5ACD&style=for-the-badge" alt="Profile Views"/>
+<img src="https://img.shields.io/github/followers/vaishnavi-rachawar?style=for-the-badge&logo=github&color=8A2BE2"/>
+<img src="https://img.shields.io/github/stars/vaishnavi-rachawar?style=for-the-badge&logo=github&color=FF69B4"/>
 </p>
 
 </div>
 
 ---
 
-# 👩‍💻 About Me
+# 🌸 About Me
 
-🎓 Final Year Computer Science Engineering Student
+💜 Final Year **Computer Science Engineering** Student
 
-💻 Passionate about **Java, Full-Stack Development, and Machine Learning**
+💻 Passionate about building **Java Full-Stack Applications**
 
 🌱 Currently learning
-- Spring Boot
-- React
-- Docker
-- REST APIs
-- JWT Authentication
-- Data Structures & Algorithms
 
-🎯 Goal: **Become a Software Engineer and build impactful applications.**
+- ☕ Java
+- 🍃 Spring Boot
+- ⚛️ React
+- 🐳 Docker
+- 🔐 JWT Authentication
+- 🤖 Machine Learning
+- 📚 Data Structures & Algorithms
+
+🎯 **Career Goal**
+
+> Become a Software Engineer who builds impactful and scalable applications.
 
 ---
 
 # 🚀 Tech Stack
 
-### 💻 Languages
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=java,c,js,html,css,mysql" />
-</p>
+### Languages
 
-### ⚙️ Frameworks & Tools
+<img src="https://skillicons.dev/icons?i=java,c,html,css,js,mysql"/>
 
-<p>
-<img src="https://skillicons.dev/icons?i=spring,react,git,github,docker,vscode,idea,postman" />
-</p>
+### Frameworks & Tools
 
----
+<img src="https://skillicons.dev/icons?i=spring,react,git,github,docker,postman,vscode,idea"/>
 
-# 📚 Currently Working On
-
-- 🤖 AI-Powered Resume Screening and Ranking System
-- 🏫 College Management Information System
-- 📊 Smart Stock Dashboard
-- 📱 Lost & Found Android Application
+</div>
 
 ---
 
-# 📈 GitHub Stats
+# 🚀 Projects
 
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=tokyonight&hide_border=true"/>
-
-</p>
+| Project | Description |
+|---------|-------------|
+| 🤖 AI Resume Screening System | Resume ranking using Machine Learning |
+| 🏫 College Management System | Spring Boot + React + MySQL |
+| 📊 Smart Stock Dashboard | Real-time analytics dashboard |
+| 📱 Lost & Found Portal | Android application |
 
 ---
 
-# 📊 GitHub Activity Graph
+# 📈 GitHub Analytics
 
-<p align="center">
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=vaishnavi-rachawar&show_icons=true&theme=radical&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vaishnavi-rachawar&layout=compact&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 🔥 Contribution Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=vaishnavi-rachawar&theme=radical&hide_border=true"/>
+
+</div>
+
+---
+
+# 📊 Contribution Graph
+
+<div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=vaishnavi-rachawar&theme=tokyo-night&hide_border=true"/>
 
-</p>
+</div>
 
 ---
 
 # 🏆 GitHub Trophies
 
-<p align="center">
+<div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-rachawar&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=vaishnavi-rachawar&theme=radical&row=2&column=4&no-frame=true"/>
 
-</p>
+</div>
 
 ---
 
-# 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p>
+<div align="center">
 
 <a href="https://github.com/vaishnavi-rachawar">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<!-- Replace with your LinkedIn URL -->
 <a href="https://linkedin.com/in/your-linkedin">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-</p>
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</div>
 
 ---
 
-# 💡 Quote
+# 💡 Daily Motivation
 
-> **"Every expert was once a beginner. Keep learning, keep building." 🚀**
+<div align="center">
+
+### *"Small progress each day adds up to big results."* 🌱
+
+</div>
 
 ---
 
@@ -124,6 +140,8 @@
 
 ### ⭐ Thanks for visiting my profile!
 
-✨ If you like my work, don't forget to star my repositories.
+💜 **Happy Coding!**
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=8A2BE2,FF69B4&height=120&section=footer"/>
 
 </div>
